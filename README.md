@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/38/60/e3/3860e368e4e988094a0703856e9df7b4.jpg" width="320" style="border-radius: 12px; border: 2px solid #30363d;" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/anime.gif" width="320" style="border-radius: 12px; border: 2px solid #30363d;" />
 </p>
 
 <div align="center">
