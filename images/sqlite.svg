@@ -8,5 +8,5 @@
     </stop>
   </linearGradient>
   <rect x="1.5" y="1.5" width="117" height="29" rx="6" fill="#0d1117" stroke="url(#rgb-grad)" stroke-width="2" />
-  <text x="60" y="20" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">HTML5</text>
+  <text x="60" y="20" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">SQLite</text>
 </svg>

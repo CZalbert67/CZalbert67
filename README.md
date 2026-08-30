@@ -26,21 +26,38 @@
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/frontend-header.svg?v=1" width="600" alt="Frontend" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/ajax.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/react.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/astro.svg" width="120" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/backend-header.svg?v=1" width="600" alt="Backend y Base de Datos" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/csharp.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/netcore.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/netframework.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/sqlserver.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mongodb.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/postgresql.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/cosmosdb.svg" width="120" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mobile-utilities.svg?v=1" width="600" alt="Desarrollo Movil y Utilidades" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/kotlin.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/sqlite.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
 </p>
 
 ---
