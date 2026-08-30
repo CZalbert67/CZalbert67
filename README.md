@@ -1,8 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30" style="filter: invert(1); margin-bottom: -5px;" /> 
-  アルベルト・クルス (CZalbert67) 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30" style="filter: invert(1); margin-bottom: -5px;" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/header_title.svg" width="600" alt="アルベルト・クルス" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/anime.gif" width="320" style="border-radius: 12px; border: 2px solid #30363d;" />
@@ -12,7 +10,7 @@
   <table border="1" bordercolor="#30363d" bgcolor="#161b22">
     <tr>
       <td align="center" width="550" height="50">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=FF3E3E&center=true&vCenter=true&width=500&lines=Somos+instantes+en+busca+de+una+eternidad...;...mientras+el+silencio+susurra+lo+que+el+tiempo+se+llev%C3%B3.;La+vida+es+una+constante+despedida...;...de+lo+que+nunca+quisimos+dejar+ir." alt="Typing SVG" />
+        <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/poem.svg" width="550" alt="Poema" />
       </td>
     </tr>
   </table>
@@ -36,7 +34,7 @@
 ## 🎵 En Reproducción...
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsjpyhx9dgznzvy8otfakvelr&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=ff3e3e&show_offline=true" alt="Spotify" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsjpyhx9dgznzvy8otfakvelr&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=dc143c&show_offline=true" alt="Spotify" />
 </p>
 
 ---
