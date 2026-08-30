@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="32">
+  <linearGradient id="rgb-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ff0055">
+      <animate attributeName="stop-color" values="#ff0055;#00ffcc;#9900ff;#ffcc00;#ff0055" dur="6s" repeatCount="indefinite" />
+    </stop>
+    <stop offset="100%" stop-color="#00aaff">
+      <animate attributeName="stop-color" values="#00aaff;#ff00ff;#00ff66;#ff3300;#00aaff" dur="6s" repeatCount="indefinite" />
+    </stop>
+  </linearGradient>
+  <rect x="1.5" y="1.5" width="117" height="29" rx="6" fill="#0d1117" stroke="url(#rgb-grad)" stroke-width="2" />
+  <text x="60" y="20" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Android</text>
+</svg>

@@ -1,7 +1,11 @@
-# ⚔️ ALBERTO CRUZ (CZalbert67) ⚔️
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30" style="filter: invert(1); margin-bottom: -5px;" /> 
+  アルベルト・クルス (CZalbert67) 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30" style="filter: invert(1); margin-bottom: -5px;" />
+</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/38/60/e3/3860e368e4e988094a0703856e9df7b4.jpg" width="100%" style="max-width: 600px; border-radius: 12px; border: 2px solid #30363d;" />
+  <img src="https://i.pinimg.com/736x/38/60/e3/3860e368e4e988094a0703856e9df7b4.jpg" width="320" style="border-radius: 12px; border: 2px solid #30363d;" />
 </p>
 
 ---
@@ -9,27 +13,13 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Frontend
-![](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=FF3E3E)
-![](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=FF3E3E)
-![](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=FF3E3E)
-![](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=FF3E3E)
-![](https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=FF3E3E)
+<img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
 
-### ⚙️ Backend & Bases de Datos
-![](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=FF3E3E)
-![](https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=FF3E3E)
-![](https://img.shields.io/badge/Laravel-121212?style=for-the-badge&logo=laravel&logoColor=FF3E3E)
-![](https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=FF3E3E)
-![](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=FF3E3E)
-![](https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=FF3E3E)
+### ⚙️ Backend & Base de Datos
+<img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
 
 ### 📱 Desarrollo Móvil & Utilidades
-![](https://img.shields.io/badge/Android-121212?style=for-the-badge&logo=android&logoColor=FF3E3E)
-![](https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=FF3E3E)
-![](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=FF3E3E)
-![](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FF3E3E)
-![](https://img.shields.io/badge/VS_Code-121212?style=for-the-badge&logo=visual-studio-code&logoColor=FF3E3E)
-![](https://img.shields.io/badge/Postman-121212?style=for-the-badge&logo=postman&logoColor=FF3E3E)
+<img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
 
 ---
 
