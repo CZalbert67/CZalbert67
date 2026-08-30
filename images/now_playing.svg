@@ -20,7 +20,7 @@
     <!-- Left Icon -->
     <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z" transform="translate(185, 13) scale(1.1)" fill="url(#rgb-grad)" />
     <!-- Text -->
-    <text x="300" y="31" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="url(#rgb-grad)" text-anchor="middle">En ReproducciÃ³n...</text>
+    <text x="300" y="31" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="url(#rgb-grad)" text-anchor="middle">En Reproducci&#243;n...</text>
     <!-- Right Icon -->
     <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z" transform="translate(390, 13) scale(1.1)" fill="url(#rgb-grad)" />
   </g>

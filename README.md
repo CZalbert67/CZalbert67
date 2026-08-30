@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=CZalbert67&color=dc143c&style=flat-square&label=VISTAS+PERFIL" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=CZalbert67&color=dc143c&style=flat-square&label=VISTAS+PERFIL" alt="Views" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <table border="1" bordercolor="#30363d" bgcolor="#161b22">
     <tr>
       <td align="center" width="550" height="135">
-        <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/poem.svg?v=3" width="550" alt="Poema" />
+        <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/poem.svg?v=4" width="550" alt="Poema" />
       </td>
     </tr>
   </table>
@@ -23,25 +23,25 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/tech_tools.svg" width="600" alt="Tecnologías y Herramientas" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/tech_tools.svg?v=3" width="600" alt="Tecnologías y Herramientas" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/frontend.svg" width="600" alt="Frontend" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/frontend.svg?v=3" width="600" alt="Frontend" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/backend.svg" width="600" alt="Backend y Base de Datos" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/backend.svg?v=3" width="600" alt="Backend y Base de Datos" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mobile_utilities.svg" width="600" alt="Desarrollo Móvil y Utilidades" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mobile_utilities.svg?v=3" width="600" alt="Desarrollo Móvil y Utilidades" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
@@ -50,13 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CZalbert67&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/now_playing.svg" width="600" alt="En Reproducción..." />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/now_playing.svg?v=3" width="600" alt="En Reproducción..." />
 </p>
 
 <p align="center">
@@ -66,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/graph_3d.svg" width="600" alt="Ciudad de Contribuciones" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/graph_3d.svg?v=3" width="600" alt="Ciudad de Contribuciones" />
 </p>
 
 <p align="center">
@@ -76,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/bomberman.svg" width="600" alt="Laberinto Bomberman" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/bomberman.svg?v=3" width="600" alt="Laberinto Bomberman" />
 </p>
 
 <p align="center">
