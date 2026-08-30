@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/header_title.svg" width="600" alt="アルベルト・クルス" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/header_title.svg?v=3" width="600" alt="アルベルト・クルス" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/normal-badge/?username=CZalbert67&color=dc143c&style=flat-square&label=VISTAS+PERFIL" alt="Views" />
 </p>
 
 <p align="center">
@@ -10,7 +14,7 @@
   <table border="1" bordercolor="#30363d" bgcolor="#161b22">
     <tr>
       <td align="center" width="550" height="135">
-        <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/poem.svg" width="550" alt="Poema" />
+        <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/poem.svg?v=3" width="550" alt="Poema" />
       </td>
     </tr>
   </table>
@@ -41,6 +45,12 @@
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CZalbert67&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
