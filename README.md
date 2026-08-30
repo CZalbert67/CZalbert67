@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF3E3E&center=true&vCenter=true&width=500&lines=Buscamos+compilar+la+vida+sin+entender...;...que+los+errores+m%C3%A1s+bellos+no+tienen+sintaxis.;Al+final,+solo+somos+c%C3%B3digo+en+el+bucle+del+tiempo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=FF3E3E&center=true&vCenter=true&width=550&lines=Somos+instantes+en+busca+de+una+eternidad...;...mientras+el+silencio+susurra+lo+que+el+tiempo+se+llev%C3%B3.;La+vida+es+una+constante+despedida...;...de+lo+que+nunca+quisimos+dejar+ir." alt="Typing SVG" />
 </p>
 
 ---
@@ -26,6 +26,25 @@
 <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
 
 ---
+
+## 🎵 En Reproducción...
+
+<!-- REEMPLAZAR "TU_UID" con tu UID de Spotify de https://spotify-github-profile.kittinanx.com/ -->
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_UID&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=ff3e3e&show_offline=true" alt="Spotify" />
+</p>
+
+---
+
+## 🌆 Ciudad de Contribuciones (3D City)
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 💣 Laberinto Bomberman
 
 <p align="center">
   <picture>
