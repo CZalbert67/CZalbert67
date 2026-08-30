@@ -9,7 +9,7 @@
 <div align="center">
   <table border="1" bordercolor="#30363d" bgcolor="#161b22">
     <tr>
-      <td align="center" width="550" height="50">
+      <td align="center" width="550" height="135">
         <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/poem.svg" width="550" alt="Poema" />
       </td>
     </tr>
