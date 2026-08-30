@@ -18,20 +18,36 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/tech_tools.svg" width="600" alt="Tecnologías y Herramientas" />
+</p>
 
-### 💻 Frontend
-<img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/frontend.svg" width="600" alt="Frontend" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
+</p>
 
-### ⚙️ Backend & Base de Datos
-<img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/backend.svg" width="600" alt="Backend y Base de Datos" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
+</p>
 
-### 📱 Desarrollo Móvil & Utilidades
-<img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mobile_utilities.svg" width="600" alt="Desarrollo Móvil y Utilidades" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
+</p>
 
 ---
 
-## 🎵 En Reproducción...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/now_playing.svg" width="600" alt="En Reproducción..." />
+</p>
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsjpyhx9dgznzvy8otfakvelr&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=dc143c&show_offline=true" alt="Spotify" />
@@ -39,7 +55,9 @@
 
 ---
 
-## 🌆 Ciudad de Contribuciones (3D City)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/graph_3d.svg" width="600" alt="Ciudad de Contribuciones" />
+</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
@@ -47,7 +65,9 @@
 
 ---
 
-## 💣 Laberinto Bomberman
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/bomberman.svg" width="600" alt="Laberinto Bomberman" />
+</p>
 
 <p align="center">
   <picture>
