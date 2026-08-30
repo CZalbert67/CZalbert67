@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CZalbert67&color=dc143c&style=flat-square&label=VISTAS+PERFIL" alt="Views" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/anime.gif" width="320" style="border-radius: 12px; border: 2px solid #30363d;" />
 </p>
 
@@ -23,25 +19,25 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/tech_tools.svg?v=3" width="600" alt="Tecnologías y Herramientas" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/tech-tools.svg?v=1" width="600" alt="Tecnologias y Herramientas" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/frontend.svg?v=3" width="600" alt="Frontend" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/frontend-header.svg?v=1" width="600" alt="Frontend" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/backend.svg?v=3" width="600" alt="Backend y Base de Datos" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/backend-header.svg?v=1" width="600" alt="Backend y Base de Datos" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mobile_utilities.svg?v=3" width="600" alt="Desarrollo Móvil y Utilidades" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mobile-utilities.svg?v=1" width="600" alt="Desarrollo Movil y Utilidades" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" /> <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
@@ -50,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/now_playing.svg?v=3" width="600" alt="En Reproducción..." />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/now-playing.svg?v=1" width="600" alt="En Reproduccion..." />
 </p>
 
 <p align="center">
@@ -60,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/graph_3d.svg?v=3" width="600" alt="Ciudad de Contribuciones" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/graph-3d.svg?v=1" width="600" alt="Ciudad de Contribuciones" />
 </p>
 
 <p align="center">
@@ -70,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/bomberman.svg?v=3" width="600" alt="Laberinto Bomberman" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/bomberman-header.svg?v=1" width="600" alt="Laberinto Bomberman" />
 </p>
 
 <p align="center">

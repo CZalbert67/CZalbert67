@@ -20,7 +20,7 @@
     <!-- Left Icon -->
     <path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z" transform="translate(145, 13) scale(1.1)" fill="url(#rgb-grad)" />
     <!-- Text -->
-    <text x="300" y="31" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="url(#rgb-grad)" text-anchor="middle">Tecnolog&#237;as y Herramientas</text>
+    <text x="300" y="31" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="url(#rgb-grad)" text-anchor="middle">Tecnologias y Herramientas</text>
     <!-- Right Icon -->
     <path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z" transform="translate(430, 13) scale(1.1)" fill="url(#rgb-grad)" />
   </g>
