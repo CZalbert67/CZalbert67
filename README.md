@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/html5.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/css3.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/javascript.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/typescript.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/ajax.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/react.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/astro.svg" width="120" />
@@ -40,10 +41,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/java.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/csharp.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/python.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/netcore.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/netframework.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mysql.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/sqlserver.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/tsql.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/mongodb.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/postgresql.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/cosmosdb.svg" width="120" />
@@ -56,6 +59,8 @@
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/android.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/kotlin.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/sqlite.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/docker.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/shell.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/git.svg" width="120" />
   <img src="https://raw.githubusercontent.com/CZalbert67/CZalbert67/main/images/github.svg" width="120" />
 </p>
