@@ -8,6 +8,10 @@
   <img src="https://i.pinimg.com/736x/38/60/e3/3860e368e4e988094a0703856e9df7b4.jpg" width="320" style="border-radius: 12px; border: 2px solid #30363d;" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=FF3E3E&center=true&vCenter=true&width=500&lines=Buscamos+compilar+la+vida+sin+entender...;...que+los+errores+m%C3%A1s+bellos+no+tienen+sintaxis.;Al+final,+solo+somos+c%C3%B3digo+en+el+bucle+del+tiempo." alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
